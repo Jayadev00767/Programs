@@ -36,7 +36,6 @@ public:
 int main() {
     Text a("alpha"), b("beta");
     b = a;
-    c = a;
     a.show();
     b.show();
 
