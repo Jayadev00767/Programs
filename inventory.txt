@@ -1,0 +1,4 @@
+C001|Capacitor|Passive|30|5
+IC001|Microcontroller|Active|15|150
+L001|LED|Optoelectronic|100|3
+R001|Resistor|Passive|500|2.5
